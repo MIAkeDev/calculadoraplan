@@ -1,5 +1,5 @@
 // Configuración interna
-const TASA_DOLAR = 3.50;
+const TASA_DOLAR = 3.59;
 const RECARGO_FIJO = 7.60;
 const MAX_PERFUMES = 30;
 
